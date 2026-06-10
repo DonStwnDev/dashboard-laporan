@@ -1,0 +1,8 @@
+Dashboard Laporan
+
+Versi 1:
+- Login
+- Dashboard Penjualan Harian
+- Grafik Omzet
+- Top Produk
+- Stok Menipis
